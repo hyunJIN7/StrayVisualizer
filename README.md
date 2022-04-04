@@ -9,8 +9,8 @@ A set of scripts to work with data collected using [Stray Scanner](https://apps.
 To access the data from your device, see [this wiki entry](https://github.com/kekeblom/StrayVisualizer/wiki/Accessing-Data).
 
 ### Installing Dependencies
-
-Install dependencies with `pip -r requirements.txt`.
+`conda create -n StrayVisualizer`
+Install dependencies with `pip install -r requirements.txt`.
 
 ### Example Datasets
 
